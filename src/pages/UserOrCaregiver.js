@@ -59,6 +59,7 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     alignItems: "center",
+    justifyContent: "center",
     backgroundColor: '#6ccff6',    
   },
   termo: {
